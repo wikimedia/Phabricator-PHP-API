@@ -1,5 +1,4 @@
-# This repository is archived as 2021-07-01 because phabricator is no longer maintained.
-# ---
+Forked from [Zolli/Phabricator-PHP-API](https://github.com/Zolli/Phabricator-PHP-API) which is no longer maintained.
 
 [![Build Status](https://ci.zolli.hu/job/PhabricatorAPI/badge/icon)](https://ci.zolli.hu/job/PhabricatorAPI/)
 [![Build Stability](https://status.buildr-framework.io/buildstatus/status_modules.php?jobName=PhabricatorAPI/&type=stability)](https://ci.zolli.hu/job/PhabricatorAPI/)
