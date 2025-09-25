@@ -1,5 +1,5 @@
 {
-    "name": "zolli/phabricator-php-api",
+    "name": "wikimedia/phabricator-php-api",
     "description": "PHP implementation for Phabricator conduit application",
     "keywords": ["api", "client", "phabricator", "conduit"],
     "license": "GPL-3.0",
@@ -12,9 +12,9 @@
         }
     ],
     "support": {
-        "issues": "https://project.zolli.hu",
-        "source": "https://github.com/Zolli/Phabricator-PHP-API",
-        "docs": "https://docs.zolli.hu/display/PHA"
+        "issues": "https://phabricator.wikimedia.org/",
+        "source": "https://github.com/wikimedia/Phabricator-PHP-API",
+        "docs": "https://github.com/wikimedia/Phabricator-PHP-API/blob/master/readme.md"
     },
     "require": {
         "php": ">=5.6",
